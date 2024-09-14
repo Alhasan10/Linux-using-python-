@@ -1,0 +1,13 @@
+touch
+ls
+cat
+echo
+head
+tail
+date
+cut
+sed
+tr
+pwd
+wc
+sort
